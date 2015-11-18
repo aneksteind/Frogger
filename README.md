@@ -1,4 +1,4 @@
-# Frogger.Java
+# Frogger
 A frogger version written in java
 
 
